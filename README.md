@@ -20,8 +20,8 @@ you can call me Chandra. I am a front end developer
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=chandralaksana22&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandralaksana22&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=Trisnavhi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trisnavhi&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
